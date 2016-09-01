@@ -1,0 +1,16 @@
+.silabas1, .silabas2{
+	background: url(../img/imgs_silabas/sprites.png) no-repeat;
+}
+
+.silabas1{
+	background-position: 0 0;
+	width: 128px;
+	height: 196px;
+}
+
+.silabas2{
+	background-position: -128px -1px ;
+	width: 128px;
+	height: 196px;
+}
+

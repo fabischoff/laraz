@@ -1,0 +1,132 @@
+/*HELPER*/
+
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.margin-direta-50{
+    margin-right: 50px;
+}
+
+.margin-top-50{
+    margin-top: 50px;
+}
+    
+.margin-top-30{
+    margin-top: 30px;
+}
+.margin-esquerda-50{
+    margin-left: 50px;
+}
+.margin-esquerda-30{
+    margin-left: 30px;
+}
+.margin-esquerda-20{
+    margin-left: 20px;
+}
+.margin-direta-100{
+    margin-right: 100px;
+}
+.margin-topo-100{
+    margin-top: 150px;
+}
+.margin-base-10{
+    margin-bottom:10px;
+}
+.margin-esquerda-70{
+    margin-left: 70px;
+}
+
+.margin-esquerda-110{
+    margin-left: 110px;
+}
+.margin-esquerda-180{
+    margin-left: 180px;
+}
+
+.linha{
+    outline: 5px solid blue;
+}
+.linha-amarela{
+    outline: 5px solid #ff0;
+}
+.clear{
+    clear: both;
+}
+
+body{background-color: #FFF}
+.divFiguras{
+    height: 800px;
+    width: 800px;
+    margin: 0 auto;
+    background-color: #b3d4fc;
+    margin-bottom: 50px;
+  
+        
+}
+.blocoImagem{
+    display: inline-block
+}
+.dropLetra{
+    height: 100px;
+    width: 100px;
+    background-color: #ff0;
+    margin: 10px auto;
+
+}
+#repositorioLetras{
+    height: 300px;
+    width: 800px;
+    background-color: #b98383;
+    margin: 50px auto;
+}
+
+#repositorioLetras ul li{
+    display: inline-block;
+}
+
+.relativo{
+    position: relative;
+}
+
+.largaLetra{
+    width: 80px;
+    height: 80px;
+    
+}
+.largaSilabaAlfabetica{
+    width: 40px;
+    height: 40px;
+    
+}
+.conteinerLargaLetra{
+    
+    
+}
+
+.titulo{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.conteinerSilaba{
+    height: 194px;
+    width: 256px;
+    background-color: #363636;
+    margin-left: 80px;
+}
+.largaSilaba{
+    margin-left: 10px;
+    height: 194px;
+    width: 140px;
+    background-color: #ff0;
+}
+.apareceImagem{
+    height: 200px;
+    width: 200px;
+    background-color: #ff0;
+    margin-left: 30px;
+    background: url('../img/animais/lobo.png') no-repeat;
+}

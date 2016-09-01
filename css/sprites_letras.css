@@ -1,0 +1,160 @@
+.a_blue, .b_blue, .c_blue, .d_blue, .e_blue, .f_blue, .g_blue, .h_blue, .i_blue, .j_blue, .k_blue, .l_blue, .m_blue, .n_blue, .o_blue, .p_blue, .q_blue, .r_blue, .s_blue, .t_blue, .u_blue, .v_blue, .w_blue, .y_blue, .z_blue, .x_blue{
+	background: url(../img/imgs_letras/sprites.png) no-repeat;
+}
+
+.a_blue{
+	background-position: 0 0;
+	width: 64px;
+	height: 64px;
+}
+
+.b_blue{
+	background-position: -64px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.c_blue{
+	background-position: -126px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.d_blue{
+	background-position: -190px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.e_blue{
+	background-position: -249px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.f_blue{
+	background-position: -310px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.g_blue{
+	background-position: -370px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.h_blue{
+	background-position: -431px 0;
+	width: 64px;
+	height: 64px;
+}
+
+.i_blue{
+	background-position: 0 -63px ;
+	width: 64px;
+	height: 64px;
+}
+
+.j_blue{
+	background-position: -65px -64px ;
+	width: 64px;
+	height: 64px;
+}
+
+.k_blue{
+	background-position: -127px -65px ;
+	width: 64px;
+	height: 64px;
+}
+
+.l_blue{
+	background-position: -190px -64px ;
+	width: 64px;
+	height: 64px;
+}
+
+.m_blue{
+	background-position: -250px -64px ;
+	width: 64px;
+	height: 64px;
+}
+
+.n_blue{
+	background-position: -312px -64px ;
+	width: 64px;
+	height: 64px;
+}
+
+.o_blue{
+	background-position: -371px -63px ;
+	width: 64px;
+	height: 64px;
+}
+
+.p_blue{
+	background-position: -430px -63px ;
+	width: 64px;
+	height: 64px;
+}
+
+.q_blue{
+	background-position: 0 -126px ;
+	width: 64px;
+	height: 64px;
+}
+
+.r_blue{
+	background-position: -65px -127px ;
+	width: 64px;
+	height: 64px;
+}
+
+.s_blue{
+	background-position: -128px -127px ;
+	width: 64px;
+	height: 64px;
+}
+
+.t_blue{
+	background-position: -191px -126px ;
+	width: 64px;
+	height: 64px;
+}
+
+.u_blue{
+	background-position: -249px -128px ;
+	width: 64px;
+	height: 64px;
+}
+
+.v_blue{
+	background-position: -310px -127px ;
+	width: 64px;
+	height: 64px;
+}
+
+.w_blue{
+	background-position: 0 -186px ;
+	width: 64px;
+	height: 64px;
+}
+
+.y_blue{
+	background-position: -64px -187px ;
+	width: 64px;
+	height: 64px;
+}
+
+.z_blue{
+	background-position: -431px -125px ;
+	width: 64px;
+	height: 64px;
+}
+
+.x_blue{
+	background-position: -372px -126px ;
+	width: 64px;
+	height: 64px;
+}
+

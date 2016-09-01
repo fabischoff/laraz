@@ -1,0 +1,42 @@
+.abelha, .arara, .leao, .macaca, .peixe, .porco{
+	background: url(../img/animais/sprites.png) no-repeat;
+}
+
+.abelha{
+	background-position: 0 0;
+	width: 200px;
+	height: 200px;
+        
+}
+
+.arara{
+	background-position: -200px 0;
+	width: 200px;
+	height: 200px;
+        
+}
+
+.leao{
+	background-position: 0 -200px ;
+	width: 200px;
+	height: 200px;
+}
+
+.macaca{
+	background-position: -199px -200px ;
+	width: 200px;
+	height: 200px;
+}
+
+.peixe{
+	background-position: 0 -400px ;
+	width: 200px;
+	height: 200px;
+}
+
+.porco{
+	background-position: -200px -400px ;
+	width: 200px;
+	height: 200px;
+}
+

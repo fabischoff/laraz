@@ -1,0 +1,40 @@
+.ca, .da, .es, .ne, .pa, .ra{
+	background: url(../img/img_alfabeticosilabico/sprites.png) no-repeat;
+}
+
+.ca{
+	background-position: 0 0;
+	width: 64px;
+	height: 32px;
+}
+
+.da{
+	background-position: -340px 0;
+	width: 64px;
+	height: 32px;
+}
+
+.es{
+	background-position: -275px 0;
+	width: 64px;
+	height: 32px;
+}
+
+.ne{
+	background-position: -206px 0;
+	width: 64px;
+	height: 32px;
+}
+
+.pa{
+	background-position: -135px 0;
+	width: 64px;
+	height: 32px;
+}
+
+.ra{
+	background-position: -67px 0;
+	width: 64px;
+	height: 32px;
+}
+

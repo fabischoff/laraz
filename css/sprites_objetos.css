@@ -1,0 +1,40 @@
+.sapato, .xicara, .chinelo, .escada, .espada, .caneta{
+	background: url(../img/img_objetos/sprites.png) no-repeat;
+}
+
+.sapato{
+	background-position: -200px -400px ;
+	width: 200px;
+	height: 200px;
+}
+
+.xicara{
+	background-position: -200px 0;
+	width: 200px;
+	height: 200px;
+}
+
+.chinelo{
+	background-position: 0 0;
+	width: 200px;
+	height: 200px;
+}
+
+.escada{
+	background-position: 0 -200px ;
+	width: 200px;
+	height: 200px;
+}
+
+.espada{
+	background-position: 0 -400px ;
+	width: 200px;
+	height: 200px;
+}
+
+.caneta{
+	background-position: -200px -200px ;
+	width: 200px;
+	height: 200px;
+}
+
